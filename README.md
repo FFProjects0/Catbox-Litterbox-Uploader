@@ -1,4 +1,7 @@
 # Catbox-Litterbox-Uploader
+![Untitled28_20250502065721](https://github.com/user-attachments/assets/8f3ba71b-84f8-4865-9823-26133a88ccf5)
+
+
 I DON'T OWN CATBOX.MOE AND MADE THIS BECAUSE I WAS BORED
 
 I honestly don't know why i made this because you can just access the website (catbox.moe) and it does the same thing but whatever, onto the description.
