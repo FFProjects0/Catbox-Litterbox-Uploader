@@ -2,7 +2,7 @@
 ![Untitled28_20250502065721](https://github.com/user-attachments/assets/8f3ba71b-84f8-4865-9823-26133a88ccf5)
 
 > [!IMPORTANT]
-> I DON'T OWN CATBOX.MOE AND MADE THIS BECAUSE I WAS BORED
+> I DO NOT OWN CATBOX.MOE
 
 # Features:
 - Allows direct file upload from your computer to catbox.moe
